@@ -1,6 +1,6 @@
 import random
-alcohol = ['Gin', 'Rum', 'Vodka', 'Whisky']
-mixer = ['Pepsi', 'Water', 'Coca-Cola', 'Orange', 'mango']
+alcohol = ['Gin', 'Rum', 'Vodka', 'Whisky', 'Sider']
+mixer = ['Pepsi', 'Water', 'Coca-Cola', 'Orange', 'Mango']
  
 print("Mix your drink with : ")
 print(alcohol[random.randint(0,3)])
